@@ -23,6 +23,21 @@ const sessionStorageCarrito = [
       nombre: 'Almohadon 2',
       precio: 10000
     },
+    {
+      id: 2,
+      nombre: 'Almohadon 2',
+      precio: 10000
+    },
+    {
+      id: 2,
+      nombre: 'Almohadon 2',
+      precio: 10000
+    },
+    {
+      id: 2,
+      nombre: 'Almohadon 2',
+      precio: 10000
+    },
     
   ]
 
