@@ -1,0 +1,19 @@
+.productsContainer{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-auto-rows: auto ;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.spinnerContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+    
+}

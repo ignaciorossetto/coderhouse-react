@@ -1,0 +1,41 @@
+.itemImage:hover{
+    transition: 0.5s all;
+    transform: scale(1.05)
+}
+
+.shopBasketContainer {
+    border: none;
+    background: none;
+    margin-left: 10px;
+  }
+
+.shopBasketContainer:hover {
+    transition: 0.2s;
+    transform: scale(1.05);
+  }
+
+  .cardPrice{
+    font-weight: 400;
+  }
+
+  .gridCard{
+    border: none!important;
+    width: 300px;
+    align-items: flex-start;
+  }
+
+  .gridCardTitle{
+    font-weight: 500!important;
+    font-size: 30px!important;
+  }
+
+  .gridCardImgIcon{
+    z-index: 3;
+    position: relative;
+    top: -270px!important;
+    left: 50%;
+    transform: scale(3);
+    background-color: rgba(246, 248, 250, 0.814);
+    background-size: 50px;
+    border-radius: 30px;
+  }

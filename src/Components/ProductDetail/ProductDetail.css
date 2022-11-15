@@ -1,0 +1,39 @@
+.productImage {
+  border: solid 1px white;
+  box-shadow: -1px 1px 39px 1px rgb(0 0 0 / 84%);
+  -webkit-box-shadow: -1px 1px 10px 1px rgb(219 219 219 / 84%);
+  -moz-box-shadow: -1px 1px 39px 1px rgba(0, 0, 0, 0.84);
+  margin: 0 20px;
+}
+
+.css-mdiyu9-MuiPaper-root-MuiCard-root {
+  box-shadow: none !important;
+}
+
+.shopBasketContainer {
+  border: none;
+  background: none;
+  margin-left: 10px;
+}
+
+
+.shopBasketContainer:hover {
+  transition: 0.2s;
+  transform: scale(1.05);
+}
+
+.quantityContainer p{
+  font-size:25px
+}
+.quantityContainer button{
+  font-size:25px
+}
+
+.backBtnContainer{
+  margin-right: 16px;
+}
+
+.backBtn{
+  font-size: 50px!important;
+}
+
